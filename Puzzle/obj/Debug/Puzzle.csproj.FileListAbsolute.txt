@@ -1,0 +1,28 @@
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.Puzzle.resources
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+D:\Visual Studio\Bài tập HDT mở rộng\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.pdb
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Puzzle.resources
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.Cache
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe.config
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.exe
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\bin\Debug\Puzzle.pdb
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csprojAssemblyReference.cache
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Puzzle.resources
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.Properties.Resources.resources
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.GenerateResource.cache
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.exe
+C:\Users\Under Z\Desktop\Puzzle\Puzzle\obj\Debug\Puzzle.pdb

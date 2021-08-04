@@ -1,0 +1,12 @@
+﻿How to play
+
+Nhấn vào nút "start" để bắt đầu chơi
+Dùng cấc phím di chuyển để dịch chuyển các hình bên cạnh dịch sang ô trống
+Hoặc dùng các nút "up","down","left","right"
+Nhấn "Close" để thoát
+
+Các phím tắt
+
+F1: Reset game
+F2: Xem ảnh gốc
+Nhấn ESC để thoát
